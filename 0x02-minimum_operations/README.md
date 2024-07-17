@@ -96,4 +96,4 @@ Min number of operations to reach 12 characters: 7
 
 ## Author
 
-- **@waltertaya**
+- **@Baruk1-netizen**
