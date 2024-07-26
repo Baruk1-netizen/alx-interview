@@ -91,6 +91,4 @@ File size: 11320
 
 This output reflects the accumulated file size and status code counts at different points during script execution.
 
-## Author
 
-- **@waltertaya**
