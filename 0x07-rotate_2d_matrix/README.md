@@ -86,4 +86,4 @@ if __name__ == "__main__":
 
 ## Author
 
-- [@waltertaya](https://www.github.com/waltertaya)
+- [@Baruk1-netizen]
