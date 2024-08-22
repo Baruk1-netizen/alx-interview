@@ -84,6 +84,4 @@ if __name__ == "__main__":
 - TutorialsPoint: [Python Lists](https://www.tutorialspoint.com/python/python_lists.htm)
 
 
-## Author
 
-- [@waltertaya](https://www.github.com/waltertaya)
