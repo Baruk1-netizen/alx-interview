@@ -80,6 +80,4 @@ Implement the function `makeChange(coins, total)` to solve the coin change probl
 - **Directory:** `0x08-making_change`
 - **File:** `0-making_change.py`
 
-## Author
 
-- [waltertaya](https://www.github.com/waltertaya)
