@@ -85,6 +85,4 @@ def island_perimeter(grid):
 
 © 2024 ALX, All rights reserved.
 
-## Author
 
-- [waltertaya](https://www.github.com/waltertaya)
