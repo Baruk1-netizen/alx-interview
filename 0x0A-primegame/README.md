@@ -100,6 +100,4 @@ print(isWinner(x, nums))  # Output: "Ben"
 - **Directory**: `0x0A-primegame`
 - **File**: `0-prime_game.py`
 
-## Author
 
-- [waltertaya](https://www.github.com/waltertaya)
